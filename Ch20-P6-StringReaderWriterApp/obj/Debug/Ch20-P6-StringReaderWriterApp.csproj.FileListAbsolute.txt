@@ -1,0 +1,7 @@
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P6-StringReaderWriterApp\Ch20-P6-StringReaderWriterApp\bin\Debug\Ch20-P6-StringReaderWriterApp.exe.config
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P6-StringReaderWriterApp\Ch20-P6-StringReaderWriterApp\bin\Debug\Ch20-P6-StringReaderWriterApp.exe
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P6-StringReaderWriterApp\Ch20-P6-StringReaderWriterApp\bin\Debug\Ch20-P6-StringReaderWriterApp.pdb
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P6-StringReaderWriterApp\Ch20-P6-StringReaderWriterApp\obj\Debug\Ch20-P6-StringReaderWriterApp.csprojAssemblyReference.cache
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P6-StringReaderWriterApp\Ch20-P6-StringReaderWriterApp\obj\Debug\Ch20-P6-StringReaderWriterApp.csproj.CoreCompileInputs.cache
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P6-StringReaderWriterApp\Ch20-P6-StringReaderWriterApp\obj\Debug\Ch20-P6-StringReaderWriterApp.exe
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P6-StringReaderWriterApp\Ch20-P6-StringReaderWriterApp\obj\Debug\Ch20-P6-StringReaderWriterApp.pdb
